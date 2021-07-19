@@ -1,0 +1,26 @@
+
+/* seteo general */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+/* fondo gris */
+
+.bg-gris{
+
+    background-color: #e5e5e5;
+}
+
+/* agrandar el size del carrito */
+
+.dropdown-menu{
+    width: 400px !important;
+
+
+}
